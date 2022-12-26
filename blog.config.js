@@ -13,13 +13,13 @@ const BLOG = {
   AUTHOR: 'kingpo', // 作者
   BIO: '桃李春风一杯酒，江湖夜雨十年灯。', // 作者简介
   LINK: 'https://anto.eu.org', // 网站地址
-  KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
+  KEYWORDS: '六月河, Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: 'zhjin66@qq.com', // 邮箱
   CONTACT_WEIBO: '', // 你的微博个人主页
   CONTACT_TWITTER: '', // 你的twitter个人主页
   CONTACT_GITHUB: 'https://github.com/Charlie-king', // 你的github个人主页
-  CONTACT_TELEGRAM: 'https://t.me/great-book', // 你的telegram 地址 例如 https://t.me/tangly_1024
+  CONTACT_TELEGRAM: 'https://t.me/book great', // 你的telegram 地址 例如 https://t.me/tangly_1024
   CONTACT_LINKEDIN: '', // 你的linkedIn 首页
 
   // 自定义字体示例： 请先将 CUSTOM_FONT 改为 true， 并将 CUSTOM_FONT_URL 改为你的字体CSS地址，同时在 CUSTOM_FONT_SANS 与 CUSTOM_FONT_SERIF 中指定你的 fontfamily
